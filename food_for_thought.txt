@@ -7,5 +7,5 @@ mvp: page to find food bank(discover), profile page to see favorite food banks(p
 link_to_wireframe: https://www.figma.com/files/drafts?fuid=1046154330550014453
 
 additional_resources: 
---adding google auth: https://blog.logrocket.com/guide-adding-google-login-react-app/
+--adding google authentication: https://blog.logrocket.com/guide-adding-google-login-react-app/
 
