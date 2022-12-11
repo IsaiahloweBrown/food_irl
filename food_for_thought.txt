@@ -8,4 +8,5 @@ link_to_wireframe: https://www.figma.com/files/drafts?fuid=1046154330550014453
 
 additional_resources: 
 --adding google authentication: https://blog.logrocket.com/guide-adding-google-login-react-app/
+--adding react native: https://reactnative.dev/docs/getting-started
 
